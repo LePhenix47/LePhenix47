@@ -10,7 +10,7 @@ I've been programming ever since I was 13 with Scratch, in high school I coded a
 *   ✉️  You can contact me at [loller763@gmail.com](mailto:loller763@gmail.com)
 *   🧠  I'm learning React and Redux
 *   🤝  I'm open to collaborating on creating web applications
-*   🌍  I live in France
+*   🌍  I'm Italo-Moroccan and live in France
 
 
 <a href="https://www.github.com/LePhenix47" target="_blank" rel="noreferrer"><img
