@@ -6,12 +6,13 @@ JavaScript-React applications developer
 
 I've been programming ever since I was 13 with Scratch, in high school I coded a little with Python in math classes to compute second degree solutions I've then taken a year of college where I had to learn C++, C, Java and PHP but failed After dropping out of college, I decided to go my own way and try to become a self-taught web developer Thus, I took 2 traineeships at OpenClassrooms to learn the job of a Fullstack web developper and a Front-End developer and also get their diploma!
 
-*   🌍  I'm based in I fluently speak Italian, French and English
+*   🗣   I fluently speak Italian, French and English
 *   ✉️  You can contact me at [loller763@gmail.com](mailto:loller763@gmail.com)
 *   🧠  I'm learning React and Redux
 *   🤝  I'm open to collaborating on creating web applications
-*   ⚡  I live in France<a href="https://www.github.com/LePhenix47" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/LePhenix47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+*   🌍  I live in France
+<a href="https://www.github.com/LePhenix47" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/LePhenix47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
