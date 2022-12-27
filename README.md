@@ -11,6 +11,8 @@ I've been programming ever since I was 13 with Scratch, in high school I coded a
 *   🧠  I'm learning React and Redux
 *   🤝  I'm open to collaborating on creating web applications
 *   🌍  I live in France
+
+
 <a href="https://www.github.com/LePhenix47" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/LePhenix47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left">
