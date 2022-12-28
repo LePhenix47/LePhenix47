@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm 20 years old and I am a JavaScript-React applications developer
 -------------------------------------------------------------------
 
-I've been programming ever since I was 13 with Scratch, in high school I coded a little with Python in math classes to compute second degree solutions I've then taken a year of college where I had to learn C++, C, Java and PHP but failed After dropping out of college, I decided to go my own way and try to become a self-taught web developer Thus, I took 2 traineeships at OpenClassrooms to learn the job of a Fullstack web developper and a Front-End developer and also get their diploma!
+I've been programming ever since I was 13 with Scratch, in high school I coded a little with Python in math classes to compute second degree solutions <br/> <br/> I've then taken a year of college where I had to learn C++, C, Java and PHP but failed After dropping out of college, I decided to go my own way and try to become a self-taught web developer <br/>  <br/>
+Thus, I took 2 traineeships at OpenClassrooms to learn the job of a Fullstack web developper and a Front-End developer and also get 2 diplomas!
 
 *   🗣   I fluently speak Italian, French and English
 *   ✉️  You can contact me at [loller763@gmail.com](mailto:loller763@gmail.com)
