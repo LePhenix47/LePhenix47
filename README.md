@@ -1,11 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Younes Lahouiti
 =======================================================================================================================================
 
-I'm 20 years old and I am a JavaScript-React applications developer
+ I'm a JavaScript-React application developer with experience in various programming languages.
 -------------------------------------------------------------------
 
-I've been programming ever since I was 13 with Scratch, in high school I coded a little with Python in math classes to compute second degree solutions <br/> <br/> I've then taken a year of college where I had to learn C++, C, Java and PHP but failed <br/> After dropping out of college, I decided to go my own way and try to become a self-taught web developer <br/>  <br/>
-Thus, I took 2 traineeships at OpenClassrooms to learn the job of a Fullstack web developper and a Front-End developer and also get 2 diplomas!
+I began programming at the age of 13 using Scratch, and in high school, I dabbled in Python for computing second-degree solutions in math classes.
+While in college, I studied C++, C, Java, and PHP, but unfortunately, I did not succeed in those courses.
+
+However, I did not let that discourage me, and I decided to forge my own path by becoming a self-taught web developer. 
+
+To achieve this, I completed two internships at OpenClassrooms, where I earned diplomas in Fullstack web development and Front-End development.
 
 *   🗣   I fluently speak Italian, French and English
 *   ✉️  You can contact me at [loller763@gmail.com](mailto:loller763@gmail.com)
