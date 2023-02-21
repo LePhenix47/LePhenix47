@@ -12,7 +12,7 @@ However, I did not let that discourage me, and I decided to forge my own path by
 To achieve this, I completed two internships at OpenClassrooms, where I earned diplomas in Fullstack web development and Front-End development.
 
 *   🗣   I fluently speak Italian, French and English
-*   ✉️  You can contact me at [loller763@gmail.com](mailto:loller763@gmail.com)
+*   ✉️  You can contact me at [youneslahouiti@duck.com](mailto:youneslahouiti@duck.com)
 *   🧠  I'm learning React and Redux
 *   🤝  I'm open to collaborating on creating web applications
 *   🌍  I'm Italo-Moroccan and live in France
