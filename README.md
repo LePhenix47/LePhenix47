@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -------------------------------------------------------------------
 
 I began programming at the age of 13 using Scratch, and in high school, I dabbled in Python for computing second-degree solutions in math classes.
-While in college, I studied C++, C, Java, and PHP, but unfortunately, I did not succeed in those courses.
+While in college, I studied C++, C, Java, and PHP, but unfortunately, I did not succeed in those courses and dropped off od college.
 
 However, I did not let that discourage me, and I decided to forge my own path by becoming a self-taught web developer. 
 
