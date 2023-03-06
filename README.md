@@ -18,6 +18,7 @@ To achieve this, I completed two internships at OpenClassrooms, where I earned d
 *   🌍  I'm Italo-Moroccan and live in France
 
 __Projects done__
+
 Check out my latest web development projects on my portfolio website:
 https://younes-portfolio-dev.vercel.app/
 
