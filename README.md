@@ -20,6 +20,7 @@ To achieve this, I completed two internships at OpenClassrooms, where I earned d
 __Projects done__
 
 Check out my latest web development projects on my portfolio website:
+
 https://younes-portfolio-dev.vercel.app/
 
 __My skills:__
