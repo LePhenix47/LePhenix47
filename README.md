@@ -13,7 +13,7 @@ To achieve this, I completed two internships at OpenClassrooms, where I earned d
 
 *   🗣   I fluently speak Italian, French and English
 *   ✉️  You can contact me at [youneslahouiti@duck.com](mailto:youneslahouiti@duck.com)
-*   🧠  I'm brainstorming for web projects
+*   🧠  I'm currently learning React Native
 *   🤝  I'm open to collaborating on creating web applications
 *   🌍  I'm Italo-Moroccan and live in France
 
