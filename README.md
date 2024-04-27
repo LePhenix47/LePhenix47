@@ -49,5 +49,5 @@ __My skills:__
 </p>
 
 ### VSCode setup
-To access my VSCode setup, you can use the following link: [VSCode Setup](https://vscode.dev/profile/github/9dfb960869eabbebe3eb7d4482d87f73). Feel free to explore and customize it for your own use
+To access my VSCode setup, you can use the following link: [VSCode Setup](https://vscode.dev/profile/github/a5d31618a77035f919150c0e7d29803a). Feel free to explore and customize it for your own use
 
