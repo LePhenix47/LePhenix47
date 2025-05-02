@@ -13,7 +13,7 @@ To achieve this, I completed two traineeships at OpenClassrooms, where I earned 
 
 *   🗣   I fluently speak Italian, French and English
 *   ✉️  You can contact me at [youneslahouiti@duck.com](mailto:youneslahouiti@duck.com)
-*   🧠  I'm currently on an apprenticeship with Uncove and OpenClassrooms
+*   🧠  I'm currently working for Uncove to improve its platform
 *   🤝  I'm open to collaborating on creating web applications
 *   🌍  I'm Italo-Moroccan and live in France
 
