@@ -13,7 +13,7 @@ To achieve this, I completed two traineeships at OpenClassrooms, where I earned 
 
 *   🗣   I fluently speak Italian, French and English
 *   ✉️  You can contact me at [youneslahouiti@duck.com](mailto:youneslahouiti@duck.com)
-*   🧠  I'm currently working for Uncove to improve its platform
+*   🧠  I'm currently working for Uncove to improve it
 *   🤝  I'm open to collaborating on creating web applications
 *   🌍  I'm Italo-Moroccan and live in France
 
@@ -100,5 +100,5 @@ __My skills:__
 
 
 ### VSCode setup
-To access my VSCode setup, you can use the following link: [VSCode Setup](https://vscode.dev/profile/github/5cd7d84276de8bbe1e09889bb84941c7). Feel free to explore and customize it for your own use
+To access my VSCode setup, you can use the following link: [VSCode Setup](https://vscode.dev/profile/github/85311ddf1ce9382051c23f1fb7eb498d). Feel free to explore and customize it for your own use
 
